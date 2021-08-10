@@ -1,0 +1,3 @@
+/home/ivan/CLionProjects/cpp_specialization/white_belt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ivan/CLionProjects/cpp_specialization/white_belt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ivan/CLionProjects/cpp_specialization/white_belt/cmake-build-debug/CMakeFiles/white_belt.dir
